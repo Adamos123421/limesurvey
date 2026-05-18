@@ -54,11 +54,15 @@ Fonctionnalités utilisées :
 - stockage des réponses,
 - attribution des enquêteurs.
 
-## Interface d’installation
+## Installation
 
-L’image suivante montre l’installation de LimeSurvey.
+herbergement sur XAMPP pour simuller un serveur php en loclhost:
 
-<img width="1137" height="522" alt="LimeSurvey-Instalar-Encuesta-01" src="https://github.com/user-attachments/assets/aafc5ebd-740a-44a2-a7bb-12cb972b9383" />
+<img width="834" height="538" alt="image" src="https://github.com/user-attachments/assets/6890515b-c319-4dac-b766-cf4dce4dcef8" />
+
+## Interface d'Installation:
+
+<img width="1280" height="660" alt="maxresdefault" src="https://github.com/user-attachments/assets/85612013-5e47-4648-9bf1-70b6ab3746d7" />
 
 
 
