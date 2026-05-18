@@ -79,13 +79,14 @@ Cette étape permet :
 
 # 2. Base de données MySQL
 
-Toutes les réponses du questionnaire sont automatiquement stockées dans MySQL.
+Toutes les réponses du questionnaire sont automatiquement stockées dans MySQL utilisé par limesurvey.
 
 La table principale utilisée est :
 
 ```sql
 lime_responses_851155
 ```
+851155 etant l'id du survey
 
 ## Table des réponses
 
@@ -379,16 +380,6 @@ Possibilités d’évolution :
 
 ---
 
-# 15. Cas d’utilisation
-
-- enquêtes CATI,
-- laboratoires de recherche,
-- études marketing,
-- ONG,
-- sondages politiques,
-- terrain académique.
-
----
 
 # Auteur
 
