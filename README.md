@@ -194,7 +194,7 @@ ANSWERED
 
 Cela permet un suivi en temps réel.
 
-avec apache airflow cette modification est planifier tout les jours pour que le suivit soit quotidien
+avec apache airflow cette modification est planifiée tout les jours pour que le suivit soit quotidien
 ---
 
 # 6. Feuilles enquêteurs
