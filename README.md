@@ -22,7 +22,7 @@ L’objectif est de :
 - visualiser les données dans un dashboard interactif.
 
 ---
-!!!! Note : **LimeSurvey est open source, ce qui signifie qu’il aurait été possible de suivre une autre approche consistant à modifier directement le code source de LimeSurvey afin qu’il écrive automatiquement dans les fichiers Excel, la base de données et le dashboard. Cette approche aurait pu être utilisée par ma part dans le cadre d’une étude nécessitant une version modifiée de LimeSurvey adaptée aux besoins spécifiques de l’enquête. 
+🔴🔴🔴🔴🔴Note : **LimeSurvey est open source, ce qui signifie qu’il aurait été possible de suivre une autre approche consistant à modifier directement le code source de LimeSurvey afin qu’il écrive automatiquement dans les fichiers Excel, la base de données et le dashboard. Cette approche aurait pu être utilisée par ma part dans le cadre d’une étude nécessitant une version modifiée de LimeSurvey adaptée aux besoins spécifiques de l’enquête. 
 Pour cette démonstration, je me suis permis d’utiliser uniquement la version standard de LimeSurvey, tout en interagissant directement avec sa base de données MySQL et en exploitant les données de celle-ci.**
 
 # Architecture générale du système
