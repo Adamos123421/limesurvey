@@ -182,16 +182,6 @@ Le fichier Excel contient tous les participants.
 
 ### Explication
 
-Colonnes importantes :
-
-| Colonne | Description |
-|---|---|
-| firstname | prénom |
-| lastname | nom |
-| email | email |
-| token | token LimeSurvey |
-| invited | invitation envoyée |
-| completed | questionnaire complété |
 
 Lorsqu’un participant répond :
 
