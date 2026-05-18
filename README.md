@@ -58,7 +58,8 @@ Fonctionnalités utilisées :
 
 L’image suivante montre l’installation de LimeSurvey.
 
-<img width="652" height="487" alt="Capture" src="https://github.com/user-attachments/assets/43a8b6f9-4395-4cf4-8f07-3fcfb3df314d" />
+<img width="1137" height="522" alt="LimeSurvey-Instalar-Encuesta-01" src="https://github.com/user-attachments/assets/aafc5ebd-740a-44a2-a7bb-12cb972b9383" />
+
 
 
 ### Explication
