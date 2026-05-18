@@ -246,7 +246,7 @@ Chaque enquêteur possède :
 
 # 7. Dashboard Looker Studio
 
-Looker Studio permet de visualiser les données sous forme de dashboard interactif.
+Looker Studio permet de visualiser les données sous forme de dashboard interactif en temps reel.
 
 ## Dashboard global
 <img width="652" height="487" alt="Capture" src="https://github.com/user-attachments/assets/b9e335f9-eabf-47f6-9c81-73b9a33f3932" />
