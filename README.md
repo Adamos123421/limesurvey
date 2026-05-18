@@ -252,86 +252,15 @@ Chaque enquêteur possède :
 
 # 7. Dashboard Looker Studio
 
-Looker Studio permet de visualiser les données sous forme de dashboard interactif en temps reel.
+Looker Studio permet de visualiser les données sous forme de dashboard interactif connecté en temps reel avec la base de données.
 
 ## Dashboard global
 <img width="652" height="487" alt="Capture" src="https://github.com/user-attachments/assets/b9e335f9-eabf-47f6-9c81-73b9a33f3932" />
 
 
-
+(Celui qui a été réalisé ci-dessus a été fait en 15 minutes uniquement dans un objectif de démonstration.)
 ---
 
-# 8. Analyse des KPI
-
-Le dashboard contient plusieurs indicateurs.
-
-## Nombre de réponses
-
-Le dashboard affiche :
-
-- nombre total de réponses,
-- nombre total d’appels,
-- progression globale.
-
----
-### Objectif
-
-Ce graphique permet de mesurer :
-
-- la qualité des appels,
-- le taux de conversion,
-- le nombre de refus,
-- les mauvais numéros.
-
----
-
-# 10. Analyse des heures de pointe
-
-Le dashboard affiche également les réponses par heure.
-
-Les heures sont regroupées :
-
-| Heure réelle | Heure regroupée |
-|---|---|
-| 15:30 | 15 |
-| 15:45 | 15 |
-| 16:02 | 16 |
-
-Champ utilisé dans Looker Studio :
-
-```sql
-REGEXP_EXTRACT(`Horaire du dernier appel`, "^\\d+")
-```
-
-### Objectif
-
-Cette analyse permet :
-
-- d’identifier les heures optimales d’appel,
-- d’optimiser les performances,
-- d’augmenter le taux de réponse.
-
----
-
-# 11. Jauge de progression
-
-Le dashboard contient également une jauge de progression.
-
-Exemple :
-
-```text
-354 appels réalisés sur 2000
-```
-
-### Utilité
-
-Cette jauge permet de suivre :
-
-- l’avancement du projet,
-- les objectifs,
-- la progression globale.
-
----
 
 # 12. Fonctionnement temps réel
 
@@ -370,10 +299,8 @@ Looker Studio actualise le dashboard
 
 Possibilités d’évolution :
 
-- envoi automatique de SMS,
-- synchronisation API,
-- dashboard temps réel avancé,
-- classement des enquêteurs,
+- envoi automatique de SMS (en combinant Python Panda avec un service api de sms),
+- dashboard temps réel avancé ,
 - prédiction des heures optimales,
 - analyse NLP des réponses ouvertes,
 - déploiement cloud.
