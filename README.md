@@ -106,8 +106,8 @@ Colonnes importantes :
 |---|---|
 | token | identifiant unique du participant |
 | submitdate | date de soumission |
-| Q4 | code enquêteur |
-| Q5 | variable supplémentaire |
+| Q4 | code enquêteur (réponse à la première question) |
+| Q5 | variable supplémentaire (réponse à la deuxième question) |
 
 ---
 
