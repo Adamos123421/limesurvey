@@ -147,7 +147,7 @@ Cette information est utilisée ensuite dans Excel et dans le dashboard.
 ---
 
 # 4. Automatisation avec Python
-
+(autre alternative c'est de connecter directement l'excel)
 Python est utilisé pour connecter :
 
 - MySQL,
