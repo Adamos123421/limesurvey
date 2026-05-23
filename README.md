@@ -7,10 +7,10 @@ Ce projet met en place un système complet de suivi d’enquêtes téléphonique
 Le système utilise :
 
 - LimeSurvey
-- MySQL
-- Python
+- MySQL(sur mon pc)
+- Python (optionel si on passe par excel ou google script selon moi)
 - Excel
-- Looker Studio
+- Looker Studio (pour les dashboards)
 
 L’objectif est de :
 
@@ -52,8 +52,7 @@ Fonctionnalités utilisées :
 - création du questionnaire,
 - génération des tokens,
 - gestion des participants,
-- stockage des réponses,
-- attribution des enquêteurs.
+- stockage des réponses sur ma base donnée,
 
 ## Installation
 
