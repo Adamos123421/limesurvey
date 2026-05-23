@@ -287,7 +287,7 @@ Looker Studio actualise le dashboard
 
 ---
 
-# 14. Améliorations futures
+# 14. Améliorations plausibles:
 
 Possibilités d’évolution :
 
@@ -299,9 +299,4 @@ Possibilités d’évolution :
 
 ---
 
-
-# Auteur
-
-Adam Sirri  
-INSEA — Data & Software Engineering
 
